@@ -15,10 +15,10 @@ Im folgenden handelt es sich um vier Gebärden, wobei ich dieses mal keine Bones
 Passende Videos hab ich dir unten in der Liste verlinkt.
 Bei dem Bild mit den vier Gebärden will ich folgendes verdeutlichen:
 
-- [ ] one-handed signs—e.g., [THROW](https://asl-lex.org/visualization/?sign=throw)
-- [ ] two active hands with the same handshape performing the same movement (synchronized or alternating)—e.g., [MEET](https://asl-lex.org/visualization/?sign=meet)
-- [ ] two-handed signs with one active and one passive hand, both with the same handshape—e.g., [REMEMBER](https://asl-lex.org/visualization/?sign=remember) (die zweite Hand sollte sich meiner Meinung nach nicht bewegen, also so wie [hier](https://www.signingsavvy.com/search/remember))
-- [ ] two-handed signs with an active and a passive hand, each having a different handshape—e.g., [WRITE](https://asl-lex.org/visualization/?sign=write)
+- [x] one-handed signs—e.g., [THROW](https://asl-lex.org/visualization/?sign=throw)
+- [x] two active hands with the same handshape performing the same movement (synchronized or alternating)—e.g., [MEET](https://asl-lex.org/visualization/?sign=meet)
+- [x] two-handed signs with one active and one passive hand, both with the same handshape—e.g., [REMEMBER](https://asl-lex.org/visualization/?sign=remember) (die zweite Hand sollte sich meiner Meinung nach nicht bewegen, also so wie [hier](https://www.signingsavvy.com/search/remember))
+- [x] two-handed signs with an active and a passive hand, each having a different handshape—e.g., [WRITE](https://asl-lex.org/visualization/?sign=write)
 
 ## Unmarked Handshapes
 
