@@ -26,14 +26,14 @@ Das Bild zeigt 8 Handformen, die ich modelliert benötige, wie im Bild zu sehen.
 
 <img alt="Unmarked Handshapes" src="unmarked-handshapes.png" width="360">
 
-- [ ] B
-- [ ] A
-- [ ] Å
-- [ ] S
-- [ ] C
-- [ ] O
-- [ ] 1
-- [ ] 5
+- [X] B
+- [X] A
+- [X] Å
+- [X] S
+- [X] C
+- [X] O
+- [X] 1
+- [X] 5
 
 ## Anmerkung
 
