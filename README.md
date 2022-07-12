@@ -8,6 +8,7 @@ Ich benötige die folgenden beiden Gebärden dargestellt mit eingezeichneten Win
 - [x] Horse
 
 ## [Battison](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.582.7797&rep=rep1&type=pdf)'s four types of signs
+
 Im folgenden handelt es sich um vier Gebärden, wobei ich dieses mal keine Bones und Winkel brauche, dafür eine Visualisierung der Bewegung. Die Gebärden mit Beispielbilder sind:
 
 <img alt="Battison's four types of signs" src="battison.png" width="360">
@@ -26,14 +27,83 @@ Das Bild zeigt 8 Handformen, die ich modelliert benötige, wie im Bild zu sehen.
 
 <img alt="Unmarked Handshapes" src="unmarked-handshapes.png" width="360">
 
-- [X] B
-- [X] A
-- [X] Å
-- [X] S
-- [X] C
-- [X] O
-- [X] 1
-- [X] 5
+- [x] b_contact
+- [x] a
+- [x] a_open (å)
+- [ ] s
+- [x] c
+- [x] o
+- [x] 1
+- [x] 5
+
+## Handshapes
+
+xfun::embed_file("handshapes.pdf")
+
+<img alt="American Fingeralphabet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asl_alphabet_gallaudet.svg/1920px-Asl_alphabet_gallaudet.svg.png" width="360">
+
+- [x] a
+- [x] a_open
+- [ ] b_closed
+- [ ] b_open
+- [ ] b_flat
+- [x] c
+- [ ] d
+- [ ] e
+- [ ] e_closed
+- [ ] e_open
+- [ ] e_open_spread
+- [ ] e_spread
+- [ ] f and 9
+- [ ] f_open
+- [ ] g and q
+- [ ] h and u
+- [ ] h_curved
+- [ ] h_flat
+- [ ] h_open
+- [ ] i
+- [ ] j
+- [ ] k and p
+- [ ] l
+- [ ] l_bent
+- [ ] l_curved
+- [ ] m
+- [ ] m_flat
+- [ ] n
+- [ ] n_flat
+- [x] o and 0
+- [ ] o_baby
+- [ ] o_flat
+- [ ] r
+- [ ] s
+- [ ] t
+- [ ] v and 2
+- [ ] v_bent
+- [ ] v_flat
+- [ ] w and 6
+- [ ] x
+- [ ] y
+- [ ] z
+- [x] 1
+- [ ] 1_bent
+- [ ] 1_curved
+- [ ] 1_flat
+- [ ] 3
+- [ ] 4
+- [ ] 4_curved
+- [ ] 5_curved
+- [ ] 5_flat_spread
+- [ ] 4_flat
+- [x] 5
+- [ ] 5_stacked
+- [ ] 7
+- [ ] 8
+- [ ] 8_open
+- [ ] goody_goody
+- [ ] horns
+- [ ] horns_flat
+- [ ] ily
+- [ ] ily_flat
 
 ## Anmerkung
 
