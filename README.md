@@ -20,13 +20,49 @@ According to Battison (1978), there are four different types of signs:
 
 <img alt="Battison's four types of signs" src="battison.png" width="360">
 
+<table>
+  <tr>
+    <td><img src="battison's_four_types_of_signs_poses/throw.png" alt="Type 0: Throw" width="240px"></td>
+    <td><img src="battison's_four_types_of_signs_poses/meet.png" alt="Type 1: Meet" width="240px"></td>
+   </tr>
+  <tr>
+    <td><img src="battison's_four_types_of_signs_poses/remember.png" alt="Type 2: Remember" width="240px"></td>
+    <td><img src="battison's_four_types_of_signs_poses/write.png" alt="Type 3: Write" width="240px"></td>
+   </tr>
+</table>
+
 ## Handshapes
 
 ### Unmarked Handshapes
 
-According to Battison (1978), the unmarked handshapes are those handshapes that are used by the non-dominant hand. They are also the handshapes that are learned first by children. More infos [here](https://www.handspeak.com/learn/index.php?id=439).
+According to Battison (1978), the unmarked handshapes are those handshapes that are used by the non-dominant hand. They are also the handshapes that are learned first by children. More infos can be found [here](https://www.handspeak.com/learn/index.php?id=439).
 
-<img alt="Unmarked Handshapes" src="unmarked-handshapes.png" width="360">
+<table>
+  <tr>
+    <td><img src="1.png" alt="1" width="120px"></td>
+    <td><img src="5.png" alt="5" width="120px"></td>
+    <td><img src="a.png" alt="a" width="120px"></td>
+    <td><img src="a_open.png" alt="a_open" width="120px"></td>
+   </tr>
+  <tr>
+    <td>1</td>
+    <td>5</td>
+    <td>a</td>
+    <td>a_open</td>
+   </tr>
+  <tr>
+    <td><img src="b_contact.png" alt="b_contact" width="120px"></td>
+    <td><img src="c.png" alt="c" width="120px"></td>
+    <td><img src="o.png" alt="o" width="120px"></td>
+    <td><img src="s.png" alt="s" width="120px"></td>
+   </tr>
+  <tr>
+    <td>b_contact</td>
+    <td>c</td>
+    <td>o</td>
+    <td>s</td>
+   </tr>
+</table>
 
 - [x] a
 - [x] a_open (å)
@@ -39,7 +75,7 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
 
 ### Marked Handshapes
 
-Marked Handshapes are all other handshapes. For a list of some handshapes [see here](https://github.com/serious-games-darmstadt/sign-visualizations/blob/main/handshapes.pdf) and in the following figure.
+Marked Handshapes are all other handshapes. For a list of some handshapes [see here](https://github.com/serious-games-darmstadt/sign-visualizations/blob/main/handshapes.pdf) and in the following figure:
 
 <img alt="American Fingeralphabet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asl_alphabet_gallaudet.svg/1920px-Asl_alphabet_gallaudet.svg.png" width="360">
 
