@@ -18,16 +18,22 @@ According to Battison (1978), there are four different types of signs:
 - [x] two-handed signs with one active and one passive hand, both with the same handshape—e.g., [REMEMBER](https://asl-lex.org/visualization/?sign=remember) ([Alternative](https://www.signingsavvy.com/search/remember))
 - [x] two-handed signs with an active and a passive hand, each having a different handshape—e.g., [WRITE](https://asl-lex.org/visualization/?sign=write)
 
-<img alt="Battison's four types of signs" src="battison.png" width="360">
-
 <table>
   <tr>
-    <td><img src="battison's_four_types_of_signs_poses/throw.png" alt="Type 0: Throw" width="240px"></td>
-    <td><img src="battison's_four_types_of_signs_poses/meet.png" alt="Type 1: Meet" width="240px"></td>
+    <td><img src="battison's_four_types_of_signs_poses/throw.png" alt="Type 0: Throw" width="180px"></td>
+    <td><img src="battison's_four_types_of_signs_poses/meet.png" alt="Type 1: Meet" width="180px"></td>
    </tr>
   <tr>
-    <td><img src="battison's_four_types_of_signs_poses/remember.png" alt="Type 2: Remember" width="240px"></td>
-    <td><img src="battison's_four_types_of_signs_poses/write.png" alt="Type 3: Write" width="240px"></td>
+    <td>Type 0: Throw</td>
+    <td>Type 1: Meet</td>
+   </tr>
+  <tr>
+    <td><img src="battison's_four_types_of_signs_poses/remember.png" alt="Type 2: Remember" width="180px"></td>
+    <td><img src="battison's_four_types_of_signs_poses/write.png" alt="Type 3: Write" width="180px"></td>
+   </tr>
+  <tr>
+    <td>Type 2: Remember</td>
+    <td>Type 3: Write</td>
    </tr>
 </table>
 
