@@ -2,13 +2,13 @@
 
 <table>
   <tr>
-    <td><img src="b.png" alt="b" width="120px"></td>
+    <td><img src="l.png" alt="l" width="120px"></td>
     <td><img src="b_closed.png" alt="b_closed" width="120px"></td>
     <td><img src="b_flat.png" alt="b_flat" width="120px"></td>
     <td><img src="b_open.png" alt="b_open" width="120px"></td>
    </tr>
   <tr>
-    <td>b</td>
+    <td>l</td>
     <td>b_closed</td>
     <td>b_flat</td>
     <td>b_open</td>
