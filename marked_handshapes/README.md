@@ -8,10 +8,10 @@
     <td><img src="b_open.png" alt="b_open" width="120px"></td>
    </tr>
   <tr>
-    <td>1</td>
-    <td>5</td>
-    <td>a</td>
-    <td>a_open</td>
+    <td>b</td>
+    <td>b_closed</td>
+    <td>b_flat</td>
+    <td>b_open</td>
    </tr>
   <tr>
     <td><img src="d.png" alt="d" width="120px"></td>
@@ -20,9 +20,9 @@
     <td><img src="e_open.png" alt="e_open" width="120px"></td>
    </tr>
   <tr>
-    <td>b_contact</td>
-    <td>c</td>
-    <td>o</td>
-    <td>s</td>
+    <td>d</td>
+    <td>e</td>
+    <td>e_closed</td>
+    <td>e_open</td>
    </tr>
 </table>
