@@ -75,7 +75,7 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
 - [x] b_contact
 - [x] c
 - [x] o
-- [ ] s
+- [x] s
 - [x] 1
 - [x] 5
 
@@ -85,46 +85,46 @@ Marked Handshapes are all other handshapes. For a list of some handshapes [see h
 
 <img alt="American Fingeralphabet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asl_alphabet_gallaudet.svg/1920px-Asl_alphabet_gallaudet.svg.png" width="360">
 
-- [ ] b_closed
-- [ ] b_open
-- [ ] b_flat
-- [ ] d
-- [ ] e
-- [ ] e_closed
-- [ ] e_open
-- [ ] e_open_spread
-- [ ] e_spread
-- [ ] f (like 9)
-- [ ] f_open
-- [ ] g (like q and 1)
-- [ ] h (like u)
-- [ ] h_curved
-- [ ] h_flat
-- [ ] h_open
-- [ ] i
-- [ ] j
-- [ ] k (like p)
-- [ ] l
-- [ ] l_bent
-- [ ] l_curved
-- [ ] m
-- [ ] m_flat
-- [ ] n
-- [ ] n_flat
-- [ ] o_baby
-- [ ] o_flat
-- [ ] p (like k)
-- [ ] q (like g and 1)
-- [ ] r
-- [ ] t
-- [ ] u (like h)
-- [ ] v (like 2)
-- [ ] v_bent
-- [ ] v_flat
-- [ ] w (like 6)
-- [ ] x
-- [ ] y
-- [ ] z
+- [x] b_closed
+- [x] b_open
+- [x] b_flat
+- [x] d
+- [x] e
+- [x] e_closed
+- [x] e_open
+- [x] e_open_spread
+- [x] e_spread
+- [x] f (like 9)
+- [x] f_open
+- [x] g (like q and 1)
+- [x] h (like u)
+- [x] h_curved
+- [x] h_flat
+- [x] h_open
+- [x] i
+- [x] j
+- [x] k (like p)
+- [x] l
+- [x] l_bent
+- [x] l_curved
+- [x] m
+- [x] m_flat
+- [x] n
+- [x] n_flat
+- [x] o_baby
+- [x] o_flat
+- [x] p (like k)
+- [x] q (like g and 1)
+- [x] r
+- [x] t
+- [x] u (like h)
+- [x] v (like 2)
+- [x] v_bent
+- [x] v_flat
+- [x] w (like 6)
+- [x] x
+- [x] y
+- [x] z
 - [ ] 0 (like o)
 - [ ] 1_bent
 - [ ] 1_curved
