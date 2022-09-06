@@ -6,17 +6,20 @@ All visualizations presented here originate from American Sign Language (ASL) an
 
 A few sample poses for the following signs of ASL:
 
-- [x] Cool
-- [x] Horse
+<table>
+  <tr>
+    <td><img src="cool.png" alt="Type 0: Throw" width="240px"></td>
+    <td><img src="horse.png" alt="Type 1: Meet" width="240px"></td>
+   </tr>
+  <tr>
+    <td>Cool</td>
+    <td>Horse</td>
+   </tr>
+</table>
 
 ## [Battison](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.582.7797&rep=rep1&type=pdf)'s four types of signs
 
 According to Battison (1978), there are four different types of signs:
-
-- [x] one-handed signs—e.g., [THROW](https://asl-lex.org/visualization/?sign=throw)
-- [x] two active hands with the same handshape performing the same movement (synchronized or alternating)—e.g., [MEET](https://asl-lex.org/visualization/?sign=meet)
-- [x] two-handed signs with one active and one passive hand, both with the same handshape—e.g., [REMEMBER](https://asl-lex.org/visualization/?sign=remember) ([Alternative](https://www.signingsavvy.com/search/remember))
-- [x] two-handed signs with an active and a passive hand, each having a different handshape—e.g., [WRITE](https://asl-lex.org/visualization/?sign=write)
 
 <table>
   <tr>
@@ -24,16 +27,16 @@ According to Battison (1978), there are four different types of signs:
     <td><img src="battison's_four_types_of_signs_poses/meet.png" alt="Type 1: Meet" width="180px"></td>
    </tr>
   <tr>
-    <td>Type 0: Throw</td>
-    <td>Type 1: Meet</td>
+    <td>Type 0: one-handed signs—e.g., [THROW](https://asl-lex.org/visualization/?sign=throw)</td>
+    <td>Type 1: two active hands with the same handshape performing the same movement (synchronized or alternating)—e.g., [MEET](https://asl-lex.org/visualization/?sign=meet</td>
    </tr>
   <tr>
     <td><img src="battison's_four_types_of_signs_poses/remember.png" alt="Type 2: Remember" width="180px"></td>
     <td><img src="battison's_four_types_of_signs_poses/write.png" alt="Type 3: Write" width="180px"></td>
    </tr>
   <tr>
-    <td>Type 2: Remember</td>
-    <td>Type 3: Write</td>
+    <td>Type 2: two-handed signs with one active and one passive hand, both with the same handshape—e.g., [REMEMBER](https://asl-lex.org/visualization/?sign=remember) ([Alternative](https://www.signingsavvy.com/search/remember))</td>
+    <td>Type 3: two-handed signs with an active and a passive hand, each having a different handshape—e.g., [WRITE](https://asl-lex.org/visualization/?sign=write)</td>
    </tr>
 </table>
 
@@ -71,6 +74,8 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
 </table>
 
 ### Marked Handshapes
+
+Marked Handshapes are all other handshapes.
 
 <table>
   <tr>
@@ -204,50 +209,8 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
 </table>
 
-Marked Handshapes are all other handshapes. For a list of some handshapes [see here](https://github.com/serious-games-darmstadt/sign-visualizations/blob/main/handshapes.pdf) and in the following figure:
-
 <img alt="American Fingeralphabet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asl_alphabet_gallaudet.svg/1920px-Asl_alphabet_gallaudet.svg.png" width="360">
 
-- [x] b_closed
-- [x] b_open
-- [x] b_flat
-- [x] d
-- [x] e
-- [x] e_closed
-- [x] e_open
-- [x] e_open_spread
-- [x] e_spread
-- [x] f (like 9)
-- [x] f_open
-- [x] g (like q and 1)
-- [x] h (like u)
-- [x] h_curved
-- [x] h_flat
-- [x] h_open
-- [x] i
-- [x] j
-- [x] k (like p)
-- [x] l
-- [x] l_bent
-- [x] l_curved
-- [x] m
-- [x] m_flat
-- [x] n
-- [x] n_flat
-- [x] o_baby
-- [x] o_flat
-- [x] p (like k)
-- [x] q (like g and 1)
-- [x] r
-- [x] t
-- [x] u (like h)
-- [x] v (like 2)
-- [x] v_bent
-- [x] v_flat
-- [x] w (like 6)
-- [x] x
-- [x] y
-- [x] z
 - [ ] 0 (like o)
 - [ ] 1_bent
 - [ ] 1_curved
