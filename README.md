@@ -74,10 +74,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
 
 <table>
   <tr>
-    <td><img src="b_closed.png" alt="b_closed" width="120px"></td>
-    <td><img src="b_flat.png" alt="b_flat" width="120px"></td>
-    <td><img src="b_open.png" alt="b_open" width="120px"></td>
-    <td><img src="d.png" alt="d" width="120px"></td>
+    <td><img src="marked_handshapes/b_closed.png" alt="b_closed" width="120px"></td>
+    <td><img src="marked_handshapes/b_flat.png" alt="b_flat" width="120px"></td>
+    <td><img src="marked_handshapes/b_open.png" alt="b_open" width="120px"></td>
+    <td><img src="marked_handshapes/d.png" alt="d" width="120px"></td>
    </tr>
   <tr>
     <td>b_closed</td>
@@ -87,10 +87,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
 
   <tr>
-    <td><img src="e_closed.png" alt="e_closed" width="120px"></td>
-    <td><img src="e_open_spread.png" alt="e_open_spread" width="120px"></td>
-    <td><img src="e_open.png" alt="e_open" width="120px"></td>
-    <td><img src="e_spread.png" alt="e_spread" width="120px"></td>
+    <td><img src="marked_handshapes/e_closed.png" alt="e_closed" width="120px"></td>
+    <td><img src="marked_handshapes/e_open_spread.png" alt="e_open_spread" width="120px"></td>
+    <td><img src="marked_handshapes/e_open.png" alt="e_open" width="120px"></td>
+    <td><img src="marked_handshapes/e_spread.png" alt="e_spread" width="120px"></td>
    </tr>
   <tr>
     <td>e_closed</td>
@@ -100,10 +100,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="e.png" alt="e" width="120px"></td>
-    <td><img src="f_open.png" alt="f_open" width="120px"></td>
-    <td><img src="f.png" alt="f" width="120px"></td>
-    <td><img src="g.png" alt="g" width="120px"></td>
+    <td><img src="marked_handshapes/e.png" alt="e" width="120px"></td>
+    <td><img src="marked_handshapes/f_open.png" alt="f_open" width="120px"></td>
+    <td><img src="marked_handshapes/f.png" alt="f" width="120px"></td>
+    <td><img src="marked_handshapes/g.png" alt="g" width="120px"></td>
    </tr>
   <tr>
     <td>e</td>
@@ -113,10 +113,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="h_curved.png" alt="h_curved" width="120px"></td>
-    <td><img src="h_flat.png" alt="h_flat" width="120px"></td>
-    <td><img src="h_open.png" alt="h_open" width="120px"></td>
-    <td><img src="h.png" alt="h" width="120px"></td>
+    <td><img src="marked_handshapes/h_curved.png" alt="h_curved" width="120px"></td>
+    <td><img src="marked_handshapes/h_flat.png" alt="h_flat" width="120px"></td>
+    <td><img src="marked_handshapes/h_open.png" alt="h_open" width="120px"></td>
+    <td><img src="marked_handshapes/h.png" alt="h" width="120px"></td>
    </tr>
   <tr>
     <td>h_curved</td>
@@ -126,10 +126,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="i.png" alt="i" width="120px"></td>
-    <td><img src="j.png" alt="j" width="120px"></td>
-    <td><img src="k.png" alt="k" width="120px"></td>
-    <td><img src="l_bent.png" alt="l_bent" width="120px"></td>
+    <td><img src="marked_handshapes/i.png" alt="i" width="120px"></td>
+    <td><img src="marked_handshapes/j.png" alt="j" width="120px"></td>
+    <td><img src="marked_handshapes/k.png" alt="k" width="120px"></td>
+    <td><img src="marked_handshapes/l_bent.png" alt="l_bent" width="120px"></td>
    </tr>
   <tr>
     <td>i</td>
@@ -139,10 +139,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="l_curved.png" alt="l_curved" width="120px"></td>
-    <td><img src="l.png" alt="l" width="120px"></td>
-    <td><img src="m_flat.png" alt="m_flat" width="120px"></td>
-    <td><img src="m.png" alt="m" width="120px"></td>
+    <td><img src="marked_handshapes/l_curved.png" alt="l_curved" width="120px"></td>
+    <td><img src="marked_handshapes/l.png" alt="l" width="120px"></td>
+    <td><img src="marked_handshapes/m_flat.png" alt="m_flat" width="120px"></td>
+    <td><img src="marked_handshapes/m.png" alt="m" width="120px"></td>
    </tr>
   <tr>
     <td>l_curved</td>
@@ -152,10 +152,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="n_flat.png" alt="n_flat" width="120px"></td>
-    <td><img src="n.png" alt="n" width="120px"></td>
-    <td><img src="o_baby.png" alt="o_baby" width="120px"></td>
-    <td><img src="o_flat.png" alt="o_flat" width="120px"></td>
+    <td><img src="marked_handshapes/n_flat.png" alt="n_flat" width="120px"></td>
+    <td><img src="marked_handshapes/n.png" alt="n" width="120px"></td>
+    <td><img src="marked_handshapes/o_baby.png" alt="o_baby" width="120px"></td>
+    <td><img src="marked_handshapes/o_flat.png" alt="o_flat" width="120px"></td>
    </tr>
   <tr>
     <td>n_flat</td>
@@ -165,10 +165,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="p.png" alt="p" width="120px"></td>
-    <td><img src="q.png" alt="q" width="120px"></td>
-    <td><img src="r.png" alt="r" width="120px"></td>
-    <td><img src="t.png" alt="t" width="120px"></td>
+    <td><img src="marked_handshapes/p.png" alt="p" width="120px"></td>
+    <td><img src="marked_handshapes/q.png" alt="q" width="120px"></td>
+    <td><img src="marked_handshapes/r.png" alt="r" width="120px"></td>
+    <td><img src="marked_handshapes/t.png" alt="t" width="120px"></td>
    </tr>
   <tr>
     <td>p</td>
@@ -178,10 +178,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="u.png" alt="u" width="120px"></td>
-    <td><img src="v_bent.png" alt="v_bent" width="120px"></td>
-    <td><img src="v_flat.png" alt="v_flat" width="120px"></td>
-    <td><img src="v.png" alt="v" width="120px"></td>
+    <td><img src="marked_handshapes/u.png" alt="u" width="120px"></td>
+    <td><img src="marked_handshapes/v_bent.png" alt="v_bent" width="120px"></td>
+    <td><img src="marked_handshapes/v_flat.png" alt="v_flat" width="120px"></td>
+    <td><img src="marked_handshapes/v.png" alt="v" width="120px"></td>
    </tr>
   <tr>
     <td>u</td>
@@ -191,10 +191,10 @@ According to Battison (1978), the unmarked handshapes are those handshapes that 
   </tr>
   
   <tr>
-    <td><img src="w.png" alt="w" width="120px"></td>
-    <td><img src="x.png" alt="x" width="120px"></td>
-    <td><img src="y.png" alt="y" width="120px"></td>
-    <td><img src="z.png" alt="z" width="120px"></td>
+    <td><img src="marked_handshapes/w.png" alt="w" width="120px"></td>
+    <td><img src="marked_handshapes/x.png" alt="x" width="120px"></td>
+    <td><img src="marked_handshapes/y.png" alt="y" width="120px"></td>
+    <td><img src="marked_handshapes/z.png" alt="z" width="120px"></td>
    </tr>
   <tr>
     <td>w</td>
