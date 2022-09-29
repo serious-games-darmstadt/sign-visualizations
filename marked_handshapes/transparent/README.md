@@ -15,191 +15,191 @@
   </tr>
 
   <tr>
-    <td><img src="e_closed.png" alt="e_closed" width="120px"></td>
-    <td><img src="e_open_spread.png" alt="e_open_spread" width="120px"></td>
-    <td><img src="e_open.png" alt="e_open" width="120px"></td>
-    <td><img src="e_spread.png" alt="e_spread" width="120px"></td>
+    <td><img src="e_closed_transparent.png" alt="e_closed_transparent" width="120px"></td>
+    <td><img src="e_open_spread_transparent.png" alt="e_open_spread_transparent" width="120px"></td>
+    <td><img src="e_open_transparent.png" alt="e_open_transparent" width="120px"></td>
+    <td><img src="e_spread_transparent.png" alt="e_spread_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>e_closed</td>
-    <td>e_open_spread</td>
-    <td>e_open</td>
-    <td>e_spread</td>
+    <td>e_closed_transparent</td>
+    <td>e_open_spread_transparent</td>
+    <td>e_open_transparent</td>
+    <td>e_spread_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="e.png" alt="e" width="120px"></td>
-    <td><img src="f_open.png" alt="f_open" width="120px"></td>
-    <td><img src="f.png" alt="f" width="120px"></td>
-    <td><img src="g.png" alt="g" width="120px"></td>
+    <td><img src="e_transparent.png" alt="e_transparent" width="120px"></td>
+    <td><img src="f_open_transparent.png" alt="f_open_transparent" width="120px"></td>
+    <td><img src="f_transparent.png" alt="f_transparent" width="120px"></td>
+    <td><img src="g_transparent.png" alt="g_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>e</td>
-    <td>f_open</td>
-    <td>f</td>
-    <td>g</td>
+    <td>e_transparent</td>
+    <td>f_open_transparent</td>
+    <td>f_transparent</td>
+    <td>g_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="h_curved.png" alt="h_curved" width="120px"></td>
-    <td><img src="h_flat.png" alt="h_flat" width="120px"></td>
-    <td><img src="h_open.png" alt="h_open" width="120px"></td>
-    <td><img src="h.png" alt="h" width="120px"></td>
+    <td><img src="h_curved_transparent.png" alt="h_curved_transparent" width="120px"></td>
+    <td><img src="h_flat_transparent.png" alt="h_flat_transparent" width="120px"></td>
+    <td><img src="h_open_transparent.png" alt="h_open_transparent" width="120px"></td>
+    <td><img src="h_transparent.png" alt="h_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>h_curved</td>
-    <td>h_flat</td>
-    <td>h_open</td>
-    <td>h</td>
+    <td>h_curved_transparent</td>
+    <td>h_flat_transparent</td>
+    <td>h_open_transparent</td>
+    <td>h_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="i.png" alt="i" width="120px"></td>
-    <td><img src="j.png" alt="j" width="120px"></td>
-    <td><img src="k.png" alt="k" width="120px"></td>
-    <td><img src="l_bent.png" alt="l_bent" width="120px"></td>
+    <td><img src="i_transparent.png" alt="i_transparent" width="120px"></td>
+    <td><img src="j_transparent.png" alt="j_transparent" width="120px"></td>
+    <td><img src="k_transparent.png" alt="k_transparent" width="120px"></td>
+    <td><img src="l_transparent_bent.png" alt="l_transparent_bent" width="120px"></td>
    </tr>
   <tr>
-    <td>i</td>
-    <td>j</td>
-    <td>k</td>
-    <td>l_bent</td>
+    <td>i_transparent</td>
+    <td>j_transparent</td>
+    <td>k_transparent</td>
+    <td>l_bent_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="l_curved.png" alt="l_curved" width="120px"></td>
-    <td><img src="l.png" alt="l" width="120px"></td>
-    <td><img src="m_flat.png" alt="m_flat" width="120px"></td>
-    <td><img src="m.png" alt="m" width="120px"></td>
+    <td><img src="l_curved_transparent.png" alt="l_curved_transparent" width="120px"></td>
+    <td><img src="l_transparent.png" alt="l_transparent" width="120px"></td>
+    <td><img src="m_flat_transparent.png" alt="m_flat_transparent" width="120px"></td>
+    <td><img src="m_transparent.png" alt="m_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>l_curved</td>
-    <td>l</td>
-    <td>m_flat</td>
-    <td>m</td>
+    <td>l_curved_transparent</td>
+    <td>l_transparent</td>
+    <td>m_flat_transparent</td>
+    <td>m_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="n_flat.png" alt="n_flat" width="120px"></td>
-    <td><img src="n.png" alt="n" width="120px"></td>
-    <td><img src="o_baby.png" alt="o_baby" width="120px"></td>
-    <td><img src="o_flat.png" alt="o_flat" width="120px"></td>
+    <td><img src="n_flat_transparent.png" alt="n_flat_transparent" width="120px"></td>
+    <td><img src="n_transparent.png" alt="n_transparent" width="120px"></td>
+    <td><img src="o_baby_transparent.png" alt="o_baby_transparent" width="120px"></td>
+    <td><img src="o_flat_transparent.png" alt="o_flat_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>n_flat</td>
-    <td>n</td>
-    <td>o_baby</td>
-    <td>o_flat</td>
+    <td>n_flat_transparent</td>
+    <td>n_transparent</td>
+    <td>o_baby_transparent</td>
+    <td>o_flat_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="p.png" alt="p" width="120px"></td>
-    <td><img src="q.png" alt="q" width="120px"></td>
-    <td><img src="r.png" alt="r" width="120px"></td>
-    <td><img src="t.png" alt="t" width="120px"></td>
+    <td><img src="p_transparent.png" alt="p_transparent" width="120px"></td>
+    <td><img src="q_transparent.png" alt="q_transparent" width="120px"></td>
+    <td><img src="r_transparent.png" alt="r_transparent" width="120px"></td>
+    <td><img src="t_transparent.png" alt="t_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>p</td>
-    <td>q</td>
-    <td>r</td>
-    <td>t</td>
+    <td>p_transparent</td>
+    <td>q_transparent</td>
+    <td>r_transparent</td>
+    <td>t_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="u.png" alt="u" width="120px"></td>
-    <td><img src="v_bent.png" alt="v_bent" width="120px"></td>
-    <td><img src="v_flat.png" alt="v_flat" width="120px"></td>
-    <td><img src="v.png" alt="v" width="120px"></td>
+    <td><img src="u_transparent.png" alt="u_transparent" width="120px"></td>
+    <td><img src="v_bent_transparent.png" alt="v_bent_transparent" width="120px"></td>
+    <td><img src="v_flat_transparent.png" alt="v_flat_transparent" width="120px"></td>
+    <td><img src="v_transparent.png" alt="v_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>u</td>
-    <td>v_bent</td>
-    <td>v_flat</td>
-    <td>v</td>
+    <td>u_transparent</td>
+    <td>v_bent_transparent</td>
+    <td>v_flat_transparent</td>
+    <td>v_transparent</td>
   </tr>
   
   <tr>
-    <td><img src="w.png" alt="w" width="120px"></td>
-    <td><img src="x.png" alt="x" width="120px"></td>
-    <td><img src="y.png" alt="y" width="120px"></td>
-    <td><img src="z.png" alt="z" width="120px"></td>
+    <td><img src="w_transparent.png" alt="w_transparent" width="120px"></td>
+    <td><img src="x_transparent.png" alt="x_transparent" width="120px"></td>
+    <td><img src="y_transparent.png" alt="y_transparent" width="120px"></td>
+    <td><img src="z_transparent.png" alt="z_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>w</td>
-    <td>x</td>
-    <td>y</td>
-    <td>z</td>
+    <td>w_transparent</td>
+    <td>x_transparent</td>
+    <td>y_transparent</td>
+    <td>z_transparent</td>
   </tr>
 
 <tr>
-    <td><img src="0.png" alt="0" width="120px"></td>
-    <td><img src="1_bent.png" alt="1_bent" width="120px"></td>
-    <td><img src="1_curved.png" alt="1_curved" width="120px"></td>
-    <td><img src="1_flat.png" alt="1_flat" width="120px"></td>
+    <td><img src="0_transparent.png" alt="0_transparent" width="120px"></td>
+    <td><img src="1_bent_transparent.png" alt="1_bent_transparent" width="120px"></td>
+    <td><img src="1_curved_transparent.png" alt="1_curved_transparent" width="120px"></td>
+    <td><img src="1_flat_transparent.png" alt="1_flat_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>0</td>
-    <td>1_bent</td>
-    <td>1_curved</td>
-    <td>1_flat</td>
+    <td>0_transparent</td>
+    <td>1_bent_transparent</td>
+    <td>1_curved_transparent</td>
+    <td>1_flat_transparent</td>
   </tr>
 
 <tr>
-    <td><img src="2.png" alt="2" width="120px"></td>
-    <td><img src="3.png" alt="3" width="120px"></td>
-    <td><img src="4.png" alt="4" width="120px"></td>
-    <td><img src="4_curved.png" alt="4_curved" width="120px"></td>
+    <td><img src="2_transparent.png" alt="2_transparent" width="120px"></td>
+    <td><img src="3_transparent.png" alt="3_transparent" width="120px"></td>
+    <td><img src="4_transparent.png" alt="4_transparent" width="120px"></td>
+    <td><img src="4_curved_transparent.png" alt="4_curved_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>4_curved</td>
+    <td>2_transparent</td>
+    <td>3_transparent</td>
+    <td>4_transparent</td>
+    <td>4_curved_transparent</td>
   </tr>
 
 <tr>
-    <td><img src="4_flat.png" alt="4_flat" width="120px"></td>
-    <td><img src="5_curved.png" alt="5_curved" width="120px"></td>
-    <td><img src="5_flat_spread.png" alt="5_flat_spread" width="120px"></td>
-    <td><img src="6.png" alt="6" width="120px"></td>
+    <td><img src="4_flat_transparent.png" alt="4_flat_transparent" width="120px"></td>
+    <td><img src="5_curved_transparent.png" alt="5_curved_transparent" width="120px"></td>
+    <td><img src="5_flat_spread_transparent.png" alt="5_flat_spread_transparent" width="120px"></td>
+    <td><img src="6_transparent.png" alt="6_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>4_flat</td>
-    <td>5_curved</td>
-    <td>5_flat_spread</td>
-    <td>6</td>
+    <td>4_flat_transparent</td>
+    <td>5_curved_transparent</td>
+    <td>5_flat_spread_transparent</td>
+    <td>6_transparent</td>
   </tr>
 
 <tr>
-    <td><img src="7.png" alt="7" width="120px"></td>
-    <td><img src="8.png" alt="8" width="120px"></td>
-    <td><img src="8_open.png" alt="8_open" width="120px"></td>
-    <td><img src="9.png" alt="9" width="120px"></td>
+    <td><img src="7_transparent.png" alt="7_transparent" width="120px"></td>
+    <td><img src="8_transparent.png" alt="8_transparent" width="120px"></td>
+    <td><img src="8_open_transparent.png" alt="8_open_transparent" width="120px"></td>
+    <td><img src="9_transparent.png" alt="9_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>7</td>
-    <td>8</td>
-    <td>8_open</td>
-    <td>9</td>
+    <td>7_transparent</td>
+    <td>8_transparent</td>
+    <td>8_open_transparent</td>
+    <td>9_transparent</td>
   </tr>
 
   <tr>
-    <td><img src="goody_goody.png" alt="goody_goody" width="120px"></td>
-    <td><img src="horns.png" alt="horns" width="120px"></td>
-    <td><img src="horns_flat.png" alt="horns_flat" width="120px"></td>
-    <td><img src="ily.png" alt="ily" width="120px"></td>
+    <td><img src="goody_goody_transparent.png" alt="goody_goody_transparent" width="120px"></td>
+    <td><img src="horns_transparent.png" alt="horns_transparent" width="120px"></td>
+    <td><img src="horns_flat_transparent.png" alt="horns_flat_transparent" width="120px"></td>
+    <td><img src="ily_transparent.png" alt="ily_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>goody_goody</td>
-    <td>horns</td>
-    <td>horns_flat</td>
-    <td>ily</td>
+    <td>goody_goody_transparent</td>
+    <td>horns_transparent</td>
+    <td>horns_flat_transparent</td>
+    <td>ily_transparent</td>
   </tr>
 
 <tr>
-    <td><img src="ily_flat.png" alt="ily_flat" width="120px"></td>
+    <td><img src="ily_flat_transparent.png" alt="ily_flat_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>ily_flat</td>
+    <td>ily_flat_transparent</td>
   </tr>
 </table>
