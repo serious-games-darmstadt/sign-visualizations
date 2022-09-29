@@ -197,11 +197,11 @@
   </tr>
 
 <tr>
-    <td><img src="ily_flat.png" alt="ily_flat" width="120px"></td>
     <td><img src="ily.png" alt="ily" width="120px"></td>
+    <td><img src="ily_flat.png" alt="ily_flat" width="120px"></td>
    </tr>
   <tr>
-    <td>ily_flat</td>
     <td>ily</td>
+    <td>ily_flat</td>
   </tr>
 </table>
