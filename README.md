@@ -79,7 +79,7 @@ Marked Handshapes are all other handshapes.
 
 <table>
   <tr>
-    <td><img src="b_closed.png" alt="b_closed" width="120px"></td>
+    <td><img src="marked_handshapes/b_closed.png" alt="b_closed" width="120px"></td>
     <td><img src="b_flat.png" alt="b_flat" width="120px"></td>
     <td><img src="b_open.png" alt="b_open" width="120px"></td>
     <td><img src="d.png" alt="d" width="120px"></td>
