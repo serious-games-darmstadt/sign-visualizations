@@ -194,7 +194,6 @@
     <td>goody_goody</td>
     <td>horns</td>
     <td>horns_flat</td>
-    <td>ily</td>
   </tr>
 
 <tr>
@@ -203,5 +202,6 @@
    </tr>
   <tr>
     <td>ily_flat</td>
+    <td>ily</td>
   </tr>
 </table>
