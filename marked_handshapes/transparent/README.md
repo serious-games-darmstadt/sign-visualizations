@@ -57,7 +57,7 @@
     <td><img src="i_transparent.png" alt="i_transparent" width="120px"></td>
     <td><img src="j_transparent.png" alt="j_transparent" width="120px"></td>
     <td><img src="k_transparent.png" alt="k_transparent" width="120px"></td>
-    <td><img src="l_transparent_bent.png" alt="l_transparent_bent" width="120px"></td>
+    <td><img src="l_bent_transparent.png" alt="l_bent_transparent" width="120px"></td>
    </tr>
   <tr>
     <td>i_transparent</td>
