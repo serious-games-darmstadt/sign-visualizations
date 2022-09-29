@@ -161,45 +161,48 @@
     <td><img src="4_flat_transparent.png" alt="4_flat_transparent" width="120px"></td>
     <td><img src="5_curved_transparent.png" alt="5_curved_transparent" width="120px"></td>
     <td><img src="5_flat_spread_transparent.png" alt="5_flat_spread_transparent" width="120px"></td>
-    <td><img src="6_transparent.png" alt="6_transparent" width="120px"></td>
+    <td><img src="5_stacked_transparent.png" alt="5_stacked_transparent" width="120px"></td>
    </tr>
   <tr>
     <td>4_flat_transparent</td>
     <td>5_curved_transparent</td>
     <td>5_flat_spread_transparent</td>
-    <td>6_transparent</td>
+    <td>5_stacked_transparent</td>
   </tr>
 
 <tr>
+    <td><img src="6_transparent.png" alt="6_transparent" width="120px"></td>
     <td><img src="7_transparent.png" alt="7_transparent" width="120px"></td>
     <td><img src="8_transparent.png" alt="8_transparent" width="120px"></td>
     <td><img src="8_open_transparent.png" alt="8_open_transparent" width="120px"></td>
-    <td><img src="9_transparent.png" alt="9_transparent" width="120px"></td>
+   
    </tr>
   <tr>
+    <td>6_transparent</td>
     <td>7_transparent</td>
     <td>8_transparent</td>
     <td>8_open_transparent</td>
-    <td>9_transparent</td>
   </tr>
 
   <tr>
+    <td><img src="9_transparent.png" alt="9_transparent" width="120px"></td>
     <td><img src="goody_goody_transparent.png" alt="goody_goody_transparent" width="120px"></td>
     <td><img src="horns_transparent.png" alt="horns_transparent" width="120px"></td>
     <td><img src="horns_flat_transparent.png" alt="horns_flat_transparent" width="120px"></td>
-    <td><img src="ily_transparent.png" alt="ily_transparent" width="120px"></td>
    </tr>
   <tr>
+    <td>9_transparent</td>
     <td>goody_goody_transparent</td>
     <td>horns_transparent</td>
     <td>horns_flat_transparent</td>
-    <td>ily_transparent</td>
   </tr>
 
 <tr>
+    <td><img src="ily_transparent.png" alt="ily_transparent" width="120px"></td>
     <td><img src="ily_flat_transparent.png" alt="ily_flat_transparent" width="120px"></td>
    </tr>
   <tr>
+    <td>ily_transparent</td>
     <td>ily_flat_transparent</td>
   </tr>
 </table>
