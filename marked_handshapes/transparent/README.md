@@ -2,16 +2,16 @@
 
 <table>
   <tr>
-    <td><img src="b_closed.png" alt="b_closed" width="120px"></td>
-    <td><img src="b_flat.png" alt="b_flat" width="120px"></td>
-    <td><img src="b_open.png" alt="b_open" width="120px"></td>
-    <td><img src="d.png" alt="d" width="120px"></td>
+    <td><img src="b_closed_transparent.png" alt="b_closed_transparent" width="120px"></td>
+    <td><img src="b_flat_transparent.png" alt="b_flat_transparent" width="120px"></td>
+    <td><img src="b_open_transparent.png" alt="b_open_transparent" width="120px"></td>
+    <td><img src="d_transparent.png" alt="d_transparent" width="120px"></td>
    </tr>
   <tr>
-    <td>b_closed</td>
-    <td>b_flat</td>
-    <td>b_open</td>
-    <td>d</td>
+    <td>b_closed_transparent</td>
+    <td>b_flat_transparent</td>
+    <td>b_open_transparent</td>
+    <td>d_transparent</td>
   </tr>
 
   <tr>
@@ -129,5 +129,77 @@
     <td>x</td>
     <td>y</td>
     <td>z</td>
+  </tr>
+
+<tr>
+    <td><img src="0.png" alt="0" width="120px"></td>
+    <td><img src="1_bent.png" alt="1_bent" width="120px"></td>
+    <td><img src="1_curved.png" alt="1_curved" width="120px"></td>
+    <td><img src="1_flat.png" alt="1_flat" width="120px"></td>
+   </tr>
+  <tr>
+    <td>0</td>
+    <td>1_bent</td>
+    <td>1_curved</td>
+    <td>1_flat</td>
+  </tr>
+
+<tr>
+    <td><img src="2.png" alt="2" width="120px"></td>
+    <td><img src="3.png" alt="3" width="120px"></td>
+    <td><img src="4.png" alt="4" width="120px"></td>
+    <td><img src="4_curved.png" alt="4_curved" width="120px"></td>
+   </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>4_curved</td>
+  </tr>
+
+<tr>
+    <td><img src="4_flat.png" alt="4_flat" width="120px"></td>
+    <td><img src="5_curved.png" alt="5_curved" width="120px"></td>
+    <td><img src="5_flat_spread.png" alt="5_flat_spread" width="120px"></td>
+    <td><img src="6.png" alt="6" width="120px"></td>
+   </tr>
+  <tr>
+    <td>4_flat</td>
+    <td>5_curved</td>
+    <td>5_flat_spread</td>
+    <td>6</td>
+  </tr>
+
+<tr>
+    <td><img src="7.png" alt="7" width="120px"></td>
+    <td><img src="8.png" alt="8" width="120px"></td>
+    <td><img src="8_open.png" alt="8_open" width="120px"></td>
+    <td><img src="9.png" alt="9" width="120px"></td>
+   </tr>
+  <tr>
+    <td>7</td>
+    <td>8</td>
+    <td>8_open</td>
+    <td>9</td>
+  </tr>
+
+  <tr>
+    <td><img src="goody_goody.png" alt="goody_goody" width="120px"></td>
+    <td><img src="horns.png" alt="horns" width="120px"></td>
+    <td><img src="horns_flat.png" alt="horns_flat" width="120px"></td>
+    <td><img src="ily.png" alt="ily" width="120px"></td>
+   </tr>
+  <tr>
+    <td>goody_goody</td>
+    <td>horns</td>
+    <td>horns_flat</td>
+    <td>ily</td>
+  </tr>
+
+<tr>
+    <td><img src="ily_flat.png" alt="ily_flat" width="120px"></td>
+   </tr>
+  <tr>
+    <td>ily_flat</td>
   </tr>
 </table>
