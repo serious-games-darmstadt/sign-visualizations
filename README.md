@@ -79,10 +79,10 @@ Marked Handshapes are all other handshapes.
 
 <table>
   <tr>
-    <td><img src="marked_handshapes/b_closed.png" alt="b_closed" width="120px"></td>
-    <td><img src="marked_handshapes/b_flat.png" alt="b_flat" width="120px"></td>
-    <td><img src="marked_handshapes/b_open.png" alt="b_open" width="120px"></td>
-    <td><img src="marked_handshapes/d.png" alt="d" width="120px"></td>
+    <td><img src="b_closed.png" alt="b_closed" width="120px"></td>
+    <td><img src="b_flat.png" alt="b_flat" width="120px"></td>
+    <td><img src="b_open.png" alt="b_open" width="120px"></td>
+    <td><img src="d.png" alt="d" width="120px"></td>
    </tr>
   <tr>
     <td>b_closed</td>
@@ -92,10 +92,10 @@ Marked Handshapes are all other handshapes.
   </tr>
 
   <tr>
-    <td><img src="marked_handshapes/e_closed.png" alt="e_closed" width="120px"></td>
-    <td><img src="marked_handshapes/e_open_spread.png" alt="e_open_spread" width="120px"></td>
-    <td><img src="marked_handshapes/e_open.png" alt="e_open" width="120px"></td>
-    <td><img src="marked_handshapes/e_spread.png" alt="e_spread" width="120px"></td>
+    <td><img src="e_closed.png" alt="e_closed" width="120px"></td>
+    <td><img src="e_open_spread.png" alt="e_open_spread" width="120px"></td>
+    <td><img src="e_open.png" alt="e_open" width="120px"></td>
+    <td><img src="e_spread.png" alt="e_spread" width="120px"></td>
    </tr>
   <tr>
     <td>e_closed</td>
@@ -105,10 +105,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/e.png" alt="e" width="120px"></td>
-    <td><img src="marked_handshapes/f_open.png" alt="f_open" width="120px"></td>
-    <td><img src="marked_handshapes/f.png" alt="f" width="120px"></td>
-    <td><img src="marked_handshapes/g.png" alt="g" width="120px"></td>
+    <td><img src="e.png" alt="e" width="120px"></td>
+    <td><img src="f_open.png" alt="f_open" width="120px"></td>
+    <td><img src="f.png" alt="f" width="120px"></td>
+    <td><img src="g.png" alt="g" width="120px"></td>
    </tr>
   <tr>
     <td>e</td>
@@ -118,10 +118,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/h_curved.png" alt="h_curved" width="120px"></td>
-    <td><img src="marked_handshapes/h_flat.png" alt="h_flat" width="120px"></td>
-    <td><img src="marked_handshapes/h_open.png" alt="h_open" width="120px"></td>
-    <td><img src="marked_handshapes/h.png" alt="h" width="120px"></td>
+    <td><img src="h_curved.png" alt="h_curved" width="120px"></td>
+    <td><img src="h_flat.png" alt="h_flat" width="120px"></td>
+    <td><img src="h_open.png" alt="h_open" width="120px"></td>
+    <td><img src="h.png" alt="h" width="120px"></td>
    </tr>
   <tr>
     <td>h_curved</td>
@@ -131,10 +131,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/i.png" alt="i" width="120px"></td>
-    <td><img src="marked_handshapes/j.png" alt="j" width="120px"></td>
-    <td><img src="marked_handshapes/k.png" alt="k" width="120px"></td>
-    <td><img src="marked_handshapes/l_bent.png" alt="l_bent" width="120px"></td>
+    <td><img src="i.png" alt="i" width="120px"></td>
+    <td><img src="j.png" alt="j" width="120px"></td>
+    <td><img src="k.png" alt="k" width="120px"></td>
+    <td><img src="l_bent.png" alt="l_bent" width="120px"></td>
    </tr>
   <tr>
     <td>i</td>
@@ -144,10 +144,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/l_curved.png" alt="l_curved" width="120px"></td>
-    <td><img src="marked_handshapes/l.png" alt="l" width="120px"></td>
-    <td><img src="marked_handshapes/m_flat.png" alt="m_flat" width="120px"></td>
-    <td><img src="marked_handshapes/m.png" alt="m" width="120px"></td>
+    <td><img src="l_curved.png" alt="l_curved" width="120px"></td>
+    <td><img src="l.png" alt="l" width="120px"></td>
+    <td><img src="m_flat.png" alt="m_flat" width="120px"></td>
+    <td><img src="m.png" alt="m" width="120px"></td>
    </tr>
   <tr>
     <td>l_curved</td>
@@ -157,10 +157,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/n_flat.png" alt="n_flat" width="120px"></td>
-    <td><img src="marked_handshapes/n.png" alt="n" width="120px"></td>
-    <td><img src="marked_handshapes/o_baby.png" alt="o_baby" width="120px"></td>
-    <td><img src="marked_handshapes/o_flat.png" alt="o_flat" width="120px"></td>
+    <td><img src="n_flat.png" alt="n_flat" width="120px"></td>
+    <td><img src="n.png" alt="n" width="120px"></td>
+    <td><img src="o_baby.png" alt="o_baby" width="120px"></td>
+    <td><img src="o_flat.png" alt="o_flat" width="120px"></td>
    </tr>
   <tr>
     <td>n_flat</td>
@@ -170,10 +170,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/p.png" alt="p" width="120px"></td>
-    <td><img src="marked_handshapes/q.png" alt="q" width="120px"></td>
-    <td><img src="marked_handshapes/r.png" alt="r" width="120px"></td>
-    <td><img src="marked_handshapes/t.png" alt="t" width="120px"></td>
+    <td><img src="p.png" alt="p" width="120px"></td>
+    <td><img src="q.png" alt="q" width="120px"></td>
+    <td><img src="r.png" alt="r" width="120px"></td>
+    <td><img src="t.png" alt="t" width="120px"></td>
    </tr>
   <tr>
     <td>p</td>
@@ -183,10 +183,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/u.png" alt="u" width="120px"></td>
-    <td><img src="marked_handshapes/v_bent.png" alt="v_bent" width="120px"></td>
-    <td><img src="marked_handshapes/v_flat.png" alt="v_flat" width="120px"></td>
-    <td><img src="marked_handshapes/v.png" alt="v" width="120px"></td>
+    <td><img src="u.png" alt="u" width="120px"></td>
+    <td><img src="v_bent.png" alt="v_bent" width="120px"></td>
+    <td><img src="v_flat.png" alt="v_flat" width="120px"></td>
+    <td><img src="v.png" alt="v" width="120px"></td>
    </tr>
   <tr>
     <td>u</td>
@@ -196,10 +196,10 @@ Marked Handshapes are all other handshapes.
   </tr>
   
   <tr>
-    <td><img src="marked_handshapes/w.png" alt="w" width="120px"></td>
-    <td><img src="marked_handshapes/x.png" alt="x" width="120px"></td>
-    <td><img src="marked_handshapes/y.png" alt="y" width="120px"></td>
-    <td><img src="marked_handshapes/z.png" alt="z" width="120px"></td>
+    <td><img src="w.png" alt="w" width="120px"></td>
+    <td><img src="x.png" alt="x" width="120px"></td>
+    <td><img src="y.png" alt="y" width="120px"></td>
+    <td><img src="z.png" alt="z" width="120px"></td>
    </tr>
   <tr>
     <td>w</td>
@@ -207,29 +207,101 @@ Marked Handshapes are all other handshapes.
     <td>y</td>
     <td>z</td>
   </tr>
+
+<tr>
+    <td><img src="0.png" alt="0" width="120px"></td>
+    <td><img src="1_bent.png" alt="1_bent" width="120px"></td>
+    <td><img src="1_curved.png" alt="1_curved" width="120px"></td>
+    <td><img src="1_flat.png" alt="1_flat" width="120px"></td>
+   </tr>
+  <tr>
+    <td>0</td>
+    <td>1_bent</td>
+    <td>1_curved</td>
+    <td>1_flat</td>
+  </tr>
+
+<tr>
+    <td><img src="2.png" alt="2" width="120px"></td>
+    <td><img src="3.png" alt="3" width="120px"></td>
+    <td><img src="4.png" alt="4" width="120px"></td>
+    <td><img src="4_curved.png" alt="4_curved" width="120px"></td>
+   </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>4_curved</td>
+  </tr>
+
+<tr>
+    <td><img src="4_flat.png" alt="4_flat" width="120px"></td>
+    <td><img src="5_curved.png" alt="5_curved" width="120px"></td>
+    <td><img src="5_flat_spread.png" alt="5_flat_spread" width="120px"></td>
+    <td><img src="6.png" alt="6" width="120px"></td>
+   </tr>
+  <tr>
+    <td>4_flat</td>
+    <td>5_curved</td>
+    <td>5_flat_spread</td>
+    <td>6</td>
+  </tr>
+
+<tr>
+    <td><img src="7.png" alt="7" width="120px"></td>
+    <td><img src="8.png" alt="8" width="120px"></td>
+    <td><img src="8_open.png" alt="8_open" width="120px"></td>
+    <td><img src="9.png" alt="9" width="120px"></td>
+   </tr>
+  <tr>
+    <td>7</td>
+    <td>8</td>
+    <td>8_open</td>
+    <td>9</td>
+  </tr>
+
+  <tr>
+    <td><img src="goody_goody.png" alt="goody_goody" width="120px"></td>
+    <td><img src="horns.png" alt="horns" width="120px"></td>
+    <td><img src="horns_flat.png" alt="horns_flat" width="120px"></td>
+    <td><img src="ily.png" alt="ily" width="120px"></td>
+   </tr>
+  <tr>
+    <td>goody_goody</td>
+    <td>horns</td>
+    <td>horns_flat</td>
+    <td>ily</td>
+  </tr>
+
+<tr>
+    <td><img src="ily_flat.png" alt="ily_flat" width="120px"></td>
+   </tr>
+  <tr>
+    <td>ily_flat</td>
+  </tr>
 </table>
 
 <img alt="American Fingeralphabet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asl_alphabet_gallaudet.svg/1920px-Asl_alphabet_gallaudet.svg.png" width="360">
 
-- [ ] 0 (like o)
-- [ ] 1_bent
-- [ ] 1_curved
-- [ ] 1_flat
-- [ ] 2 (like v)
-- [ ] 3
-- [ ] 4
-- [ ] 4_curved
-- [ ] 4_flat
-- [ ] 5_curved
-- [ ] 5_flat_spread
-- [ ] 5_stacked
-- [ ] 6 (like w)
-- [ ] 7
-- [ ] 8
-- [ ] 8_open
-- [ ] 9 (like f)
-- [ ] goody_goody
-- [ ] horns
-- [ ] horns_flat
-- [ ] ily
-- [ ] ily_flat
+- [x] 0 (like o)
+- [x] 1_bent
+- [x] 1_curved
+- [x] 1_flat
+- [x] 2 (like v)
+- [x] 3
+- [x] 4
+- [x] 4_curved
+- [x] 4_flat
+- [x] 5_curved
+- [x] 5_flat_spread
+- [x] 5_stacked
+- [x] 6 (like w)
+- [x] 7
+- [x] 8
+- [x] 8_open
+- [x] 9 (like f)
+- [x] goody_goody
+- [x] horns
+- [x] horns_flat
+- [x] ily
+- [x] ily_flat
