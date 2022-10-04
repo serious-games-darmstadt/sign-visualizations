@@ -282,28 +282,3 @@ Marked Handshapes are all other handshapes.
     <td>ily_flat</td>
   </tr>
 </table>
-
-<img alt="American Fingeralphabet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asl_alphabet_gallaudet.svg/1920px-Asl_alphabet_gallaudet.svg.png" width="360">
-
-- [x] 0 (like o)
-- [x] 1_bent
-- [x] 1_curved
-- [x] 1_flat
-- [x] 2 (like v)
-- [x] 3
-- [x] 4
-- [x] 4_curved
-- [x] 4_flat
-- [x] 5_curved
-- [x] 5_flat_spread
-- [x] 5_stacked
-- [x] 6 (like w)
-- [x] 7
-- [x] 8
-- [x] 8_open
-- [x] 9 (like f)
-- [x] goody_goody
-- [x] horns
-- [x] horns_flat
-- [x] ily
-- [x] ily_flat
