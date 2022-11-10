@@ -276,9 +276,11 @@ Marked Handshapes are all other handshapes.
 <tr>
     <td><img src="marked_handshapes/ily.png" alt="ily" width="120px"></td>
     <td><img src="marked_handshapes/ily_flat.png" alt="ily_flat" width="120px"></td>
+    <td><img src="marked_handshapes/v_curved.png" alt="v_curved" width="120px"></td>
    </tr>
   <tr>
     <td>ily</td>
     <td>ily_flat</td>
+    <td>v_curved</td>
   </tr>
 </table>
