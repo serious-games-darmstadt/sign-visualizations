@@ -200,9 +200,11 @@
 <tr>
     <td><img src="ily_transparent.png" alt="ily_transparent" width="120px"></td>
     <td><img src="ily_flat_transparent.png" alt="ily_flat_transparent" width="120px"></td>
+    <td><img src="v_curved_transparent.png" alt="v_curved_transparent" width="120px"></td>
    </tr>
   <tr>
     <td>ily_transparent</td>
     <td>ily_flat_transparent</td>
+    <td>v_curved_transparent</td>
   </tr>
 </table>
