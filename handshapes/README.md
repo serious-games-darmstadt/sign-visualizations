@@ -439,10 +439,10 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
 
 # References
 
-<a id="2">[2]</a>
+<a id="1">[1]</a>
 Battison, Robbin. "Lexical borrowing in American sign language." (1978).
 
-<a id="1">[1]</a>
+<a id="2">[2]</a>
 Boyes Braem, Penny. "Einführung in die Gebärdensprache und ihre Erforschung, Hamburg: Signum-Verlag. 1995, 3." (1995).
 
 <a id="3">[3]</a>

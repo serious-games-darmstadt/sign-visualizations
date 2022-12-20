@@ -49,24 +49,6 @@ Battison (1978) [[1]](#1) also established two combination rules for the hands t
 
 ## Handshapes
 
-{LETTER}_{THUMB}_{FLEXION}\_{SPREAD}
-
-Thumb Position:
-
-- Contact: ...
-- Open: ...
-- Closed: ...
-  ???
-
-Flexion:
-
-- Bent: ...
-- Flat: ...
-- Curved: ...
-- Stacked: ...
-
-Spread???
-
 ### Unmarked Handshapes
 
 According to Battison (1978) [[1]](#1), the unmarked handshapes are those handshapes used by the non-dominant hand. They are also the handshapes first learned by children and are used in all known sign languages. For more information, see [here] (https://www.handspeak.com/learn/index.php?id=439).
@@ -398,8 +380,6 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
 
 ... to be done ...
 
-PAPASPYROU (1990: 64) verzeichnet 34 Handformen der Deutschen Gebärdensprache, aus denen die Gebärden der Deutschen Gebärdensprache gebildet werden. AUS hamp_hannig.pdf
-
 ### Used Handshapes in _German Fingeralphabet_
 
 <table>
@@ -508,10 +488,10 @@ PAPASPYROU (1990: 64) verzeichnet 34 Handformen der Deutschen Gebärdensprache, 
 
 ## References
 
-<a id="2">[2]</a>
+<a id="1">[1]</a>
 Battison, Robbin. "Lexical borrowing in American sign language." (1978).
 
-<a id="1">[1]</a>
+<a id="2">[2]</a>
 Boyes Braem, Penny. "Einführung in die Gebärdensprache und ihre Erforschung, Hamburg: Signum-Verlag. 1995, 3." (1995).
 
 <a id="3">[3]</a>
