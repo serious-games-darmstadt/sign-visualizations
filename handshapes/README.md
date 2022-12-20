@@ -34,6 +34,7 @@ Depending on the source, six [[2]](#2), seven [[1]](#1) or eight [[3]](#3) diffe
 </table>
 
 \* Boyes Braem [[2]](#2) considers handshape _s_ as a variation of handshape _a_ and therefore does not differentiate it further.
+
 \*\* Eccarius and Brentari [[3]](#3) differentiated handshape _a_ and therefore introduced the further gesture _a_open_.
 
 ## Used Handshapes in _American Sign Language_
@@ -294,7 +295,7 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
     <td><img src="q.png" alt="q" width="120px"></td>
     <td><img src="r.png" alt="r" width="120px"></td>
     <td><img src="s.png" alt="s" width="120px"></td>
-    <td><img src="g_contact.png" alt="g_contact" width="120px"></td>
+    <td><img src="t.png" alt="t" width="120px"></td>
    </tr>
   <tr>
     <td>q</td>
@@ -389,7 +390,7 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
     <td><img src="q.png" alt="q" width="120px"></td>
     <td><img src="r.png" alt="r" width="120px"></td>
     <td><img src="s.png" alt="s" width="120px"></td>
-    <td><img src="t.png" alt="t" width="120px"></td>
+    <td><img src="g_contact.png" alt="g_contact" width="120px"></td>
    </tr>
   <tr>
     <td>q</td>
@@ -430,9 +431,9 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
     <td><img src="ue.png" alt="ü" width="120px"></td>
    </tr>
   <tr>
-    <td>ae</td>
-    <td>oe</td>
-    <td>ue</td>
+    <td>ä</td>
+    <td>ö</td>
+    <td>ü</td>
   </tr>
 </table>
 
@@ -440,7 +441,9 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
 
 <a id="2">[2]</a>
 Battison, Robbin. "Lexical borrowing in American sign language." (1978).
+
 <a id="1">[1]</a>
 Boyes Braem, Penny. "Einführung in die Gebärdensprache und ihre Erforschung, Hamburg: Signum-Verlag. 1995, 3." (1995).
+
 <a id="3">[3]</a>
 Eccarius, Petra, and Diane Brentari. "Symmetry and dominance: A cross-linguistic study of signs and classifier constructions." Lingua 117.7 (2007): 1169-1201.

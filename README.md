@@ -44,10 +44,28 @@ According to Battison (1978) [[1]](#1), there are four different types of signs:
 
 Battison (1978) [[1]](#1) also established two combination rules for the hands that are valid for all sign languages:
 
-- <u>Symmetry</u> rule: If both hands move at the same time, they have the same hand shape (Type 1).
-- <u>Dominance</u> rule: If the dominant and non-dominant hands have different handshapes, only the dominant hand moves and the non-dominant hand has one of the [#unmarked-handshapes] (Type 3).
+- **Symmetry** rule: If both hands move at the same time, they have the same hand shape (Type 1).
+- **Dominance** rule: If the dominant and non-dominant hands have different handshapes, only the dominant hand moves and the non-dominant hand has one of the [#unmarked-handshapes] (Type 3).
 
 ## Handshapes
+
+{LETTER}_{THUMB}_{FLEXION}\_{SPREAD}
+
+Thumb Position:
+
+- Contact: ...
+- Open: ...
+- Closed: ...
+  ???
+
+Flexion:
+
+- Bent: ...
+- Flat: ...
+- Curved: ...
+- Stacked: ...
+
+Spread???
 
 ### Unmarked Handshapes
 
@@ -83,6 +101,7 @@ Depending on the source, six [[2]](#2), seven [[1]](#1) or eight [[3]](#3) diffe
 </table>
 
 \* Boyes Braem [[2]](#2) considers handshape _s_ as a variation of handshape _a_ and therefore does not differentiate it further.
+
 \*\* Eccarius and Brentari [[3]](#3) differentiated handshape _a_ and therefore introduced the further gesture _a_open_.
 
 ### Used Handshapes in _American Sign Language_
@@ -343,7 +362,7 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
     <td><img src="handshapes/q.png" alt="q" width="120px"></td>
     <td><img src="handshapes/r.png" alt="r" width="120px"></td>
     <td><img src="handshapes/s.png" alt="s" width="120px"></td>
-    <td><img src="handshapes/g_contact.png" alt="g_contact" width="120px"></td>
+    <td><img src="handshapes/t.png" alt="t" width="120px"></td>
    </tr>
   <tr>
     <td>q</td>
@@ -377,7 +396,9 @@ According to [ASL-Lex](https://asl-lex.org) the following 59 handshapes are used
 
 ### Used Handshapes in _German Sign Language_
 
-_... to be done ..._
+... to be done ...
+
+PAPASPYROU (1990: 64) verzeichnet 34 Handformen der Deutschen Gebärdensprache, aus denen die Gebärden der Deutschen Gebärdensprache gebildet werden. AUS hamp_hannig.pdf
 
 ### Used Handshapes in _German Fingeralphabet_
 
@@ -438,7 +459,7 @@ _... to be done ..._
     <td><img src="handshapes/q.png" alt="q" width="120px"></td>
     <td><img src="handshapes/r.png" alt="r" width="120px"></td>
     <td><img src="handshapes/s.png" alt="s" width="120px"></td>
-    <td><img src="handshapes/t.png" alt="t" width="120px"></td>
+    <td><img src="handshapes/g_contact.png" alt="g_contact" width="120px"></td>
    </tr>
   <tr>
     <td>q</td>
@@ -479,9 +500,9 @@ _... to be done ..._
     <td><img src="handshapes/ue.png" alt="ü" width="120px"></td>
    </tr>
   <tr>
-    <td>ae</td>
-    <td>oe</td>
-    <td>ue</td>
+    <td>ä</td>
+    <td>ö</td>
+    <td>ü</td>
   </tr>
 </table>
 
@@ -489,7 +510,9 @@ _... to be done ..._
 
 <a id="2">[2]</a>
 Battison, Robbin. "Lexical borrowing in American sign language." (1978).
+
 <a id="1">[1]</a>
 Boyes Braem, Penny. "Einführung in die Gebärdensprache und ihre Erforschung, Hamburg: Signum-Verlag. 1995, 3." (1995).
+
 <a id="3">[3]</a>
 Eccarius, Petra, and Diane Brentari. "Symmetry and dominance: A cross-linguistic study of signs and classifier constructions." Lingua 117.7 (2007): 1169-1201.
