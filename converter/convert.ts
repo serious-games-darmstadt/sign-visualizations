@@ -32,9 +32,30 @@ function runScripts(args: arg.Spec) {
       "gltf_models",
       `${filename}.gltf`
     );
+    const file_glb = join(
+      __dirname,
+      "..",
+      "handshapes",
+      "glb_models",
+      `${filename}.glb`
+    );
 
     exec(
       `${dir_cli} -i ${file_fbx} -o ${file_gtlf} -e`,
+      (error, stdout, stderr) => {
+        if (error) {
+          console.log(`error: ${error.message}`);
+          return;
+        }
+        if (stderr) {
+          console.log(`stderr: ${stderr}`);
+          return;
+        }
+        console.log(`stdout: ${stdout}`);
+      }
+    );
+    exec(
+      `${dir_cli} -i ${file_fbx} -o ${file_glb} -b`,
       (error, stdout, stderr) => {
         if (error) {
           console.log(`error: ${error.message}`);
