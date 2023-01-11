@@ -34,7 +34,7 @@ function runScripts(args: arg.Spec) {
     );
 
     exec(
-      `${dir_cli} -i ${file_fbx} -o ${file_gtlf}`,
+      `${dir_cli} -i ${file_fbx} -o ${file_gtlf} -e`,
       (error, stdout, stderr) => {
         if (error) {
           console.log(`error: ${error.message}`);
