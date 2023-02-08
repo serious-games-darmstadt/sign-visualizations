@@ -3,7 +3,7 @@ import { join } from "path";
 import { exec } from "child_process";
 import arg from "arg";
 
-function runScripts(args: arg.Spec) {
+function runScripts(args: arg.Spec, path = "handshapes") {
   const _args = arg(args, { permissive: true });
   const type = _args["--type"] as unknown as string;
 
@@ -22,20 +22,20 @@ function runScripts(args: arg.Spec) {
       break;
   }
 
-  readdirSync(join(__dirname, "..", "handshapes", "fbx_models")).map((file) => {
+  readdirSync(join(__dirname, "..", path, "fbx_models")).map((file) => {
     const filename = file.split(".")[0];
-    const file_fbx = join(__dirname, "..", "handshapes", "fbx_models", file);
+    const file_fbx = join(__dirname, "..", path, "fbx_models", file);
     const file_gtlf = join(
       __dirname,
       "..",
-      "handshapes",
+      path,
       "gltf_models",
       `${filename}.gltf`
     );
     const file_glb = join(
       __dirname,
       "..",
-      "handshapes",
+      path,
       "glb_models",
       `${filename}.glb`
     );
@@ -72,3 +72,4 @@ function runScripts(args: arg.Spec) {
 }
 
 runScripts({ "--type": String });
+runScripts({ "--type": String }, "fingeralphabet");
