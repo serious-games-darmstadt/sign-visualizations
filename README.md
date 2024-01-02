@@ -47,29 +47,7 @@ Battison (1978) [[1]](#1) also established two combination rules for the hands t
 - **Symmetry** rule: If both hands move at the same time, they have the same hand shape (Type 1).
 - **Dominance** rule: If the dominant and non-dominant hands have different handshapes, only the dominant hand moves and the non-dominant hand has one of the [#unmarked-handshapes] (Type 3).
 
-## Handshapes
-
-b_contact => b_flat????
-
-{LETTER}_{THUMB}_{FLEXION}\_{SPREAD}
-
-Thumb Position:
-
-- Contact: ...
-- Open: ...
-- Closed: ...
-  ???
-
-Flexion:
-
-- Bent: ...
-- Flat: ...
-- Curved: ...
-- Stacked: ...
-
-Spread???
-
-### Unmarked Handshapes
+## Unmarked Handshapes
 
 According to Battison (1978) [[1]](#1), the unmarked handshapes are those handshapes used by the non-dominant hand. They are also the handshapes first learned by children and are used in all known sign languages. For more information, see [here](https://www.handspeak.com/learn/index.php?id=439).
 
